@@ -37,8 +37,14 @@ python pred.py
 
 ## Result examples
 
-leftmost: bicubic upsampling
+CelebA dataset (not HQ)
 
-<img src = 'example/img_6-6.png' width=400>
+16 left images are generated from random vector.
+
+And 16 right images are generated from refined random vector.
+
+<img src = 'example/img_6-6.png' width=800>
+
+Anime face (prepared my own dataset)
 
 <img src = 'example/img_36.png' width=400>
