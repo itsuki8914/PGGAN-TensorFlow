@@ -41,4 +41,4 @@ leftmost: bicubic upsampling
 
 <img src = 'example/img_6-6.png' width=400>
 
-<img src = 'example/img_36.png' >
+<img src = 'example/img_36.png' width=400>
