@@ -72,7 +72,7 @@ def main():
     for i in range(100):
         seed = i
         np.random.seed(seed)
-        z_batch = np.random.normal(size=[36, 1, 1, 512])
+        z_batch = np.random.normal(0, 0.5, size=[16, 1, 1, 512])
         g_image = fakes[6].eval(feed_dict={z: z_batch, alpha: 1}, session=sess)
         cv2.imwrite(os.path.join(SVIM_DIR,"img_%d-%d.png"%(seed,i)),tileImage(g_image+1)*127.5)
 
