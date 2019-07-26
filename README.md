@@ -5,9 +5,7 @@ original paper: https://arxiv.org/abs/1710.10196
 
 original implementation: https://github.com/tkarras/progressive_growing_of_gans
 
-I referred https://github.com/tadax/pggan .
-
-See also it.
+I referred https://github.com/tadax/pggan . See also it.
 
 ## usage
 put images in named "data" folder in this directory.
