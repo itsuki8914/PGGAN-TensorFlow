@@ -39,6 +39,6 @@ python pred.py
 
 leftmost: bicubic upsampling
 
-<img src = 'examples/img_6-6.png' width=400>
+<img src = 'example/img_6-6.png' width=400>
 
 <img src = 'examples/lenna.png' >
