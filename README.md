@@ -51,7 +51,7 @@ fakes[8] 1024px
 
 All generated images are 256px resolution.
 
-CelebA dataset (not HQ)
+[CelebA dataset (not HQ)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
 16 left images are generated from random vector.
 
