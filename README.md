@@ -51,7 +51,7 @@ fakes[8] 1024px
 
 All generated images are 256px resolution.
 
-[CelebA dataset (not HQ)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
+###[CelebA dataset (not HQ)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
 16 left images are generated from random vector.
 
@@ -59,6 +59,6 @@ And 16 right images are generated from refined random vector.
 
 <img src = 'example/img_6-6.png' width=800>
 
-Anime face (prepared my own dataset)
+###Anime face (prepared my own dataset)
 
 <img src = 'example/img_36.png' width=400>
