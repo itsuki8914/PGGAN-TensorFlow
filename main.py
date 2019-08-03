@@ -100,8 +100,8 @@ def main():
     g_opt = [opt.minimize(g_loss, var_list=g_var) for g_loss in g_losses]
     d_opt = [opt.minimize(d_loss, var_list=d_var) for d_loss in d_losses]
 
-    printParam(scope="generator")
-    printParam(scope="discriminator")
+    printParam(scope="Generator")
+    printParam(scope="Discriminator")
 
     start = time.time()
 
