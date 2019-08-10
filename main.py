@@ -142,7 +142,7 @@ def main():
         print("starting stage{}".format(stage+1))
         for i in range(steps[stage]+1):
             delta = 4*i/(steps[stage])
-            if stage == 1:
+            if stage == 0:
                 alp = 1.0
             else:
                 alp = min(delta, 1.0)
